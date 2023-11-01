@@ -11,7 +11,7 @@ public class Main {
         System.out.print("Введите значение второго ребра параллелепипеда : ");
         int rebro2 = scanner.nextInt();
 
-        System.out.print("Введите значение третего ребра параллелепипеда : ");
+        System.out.print("Введите значение третьего ребра параллелепипеда : ");
         int rebro3 = scanner.nextInt();
 
         int ResultSquare = 2 * ((rebro1 * rebro2) + (rebro1 * rebro3) + (rebro2 * rebro3));
